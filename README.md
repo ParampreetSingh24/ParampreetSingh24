@@ -13,36 +13,25 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/ParampreetSingh/ParampreetSingh/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-### 🎶 Spotify Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
----
-
 ### 🌌 Cool Badges
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=tensorflow)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge&logo=spacy)
+![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge&logo=chainlink)
+![LangGraph](https://img.shields.io/badge/LangGraph-darkblue?style=for-the-badge&logo=graphql)
+
 
 ---
 
-### ⚡ Fun Animated Banner
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+#
 
----
-
-### ✨ Visitors Count
-![Visitor Count](https://komarev.com/ghpvc/?username=ParampreetSingh&color=blue&style=flat)
+--
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parampreet-singh-252782298)
