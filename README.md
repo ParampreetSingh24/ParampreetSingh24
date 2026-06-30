@@ -7,7 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub;C++%2C+Python%2C+ML%2C+DL%2C+NLP;LangChain+%7C+LangGraph+Explorer;Always+Learning+%26+Building...)](https://git.io/typing-svg)
 
-### 🌌 Cool Badges
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=tensorflow)
@@ -16,6 +15,4 @@
 ![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge&logo=chainlink)
 ![LangGraph](https://img.shields.io/badge/LangGraph-darkblue?style=for-the-badge&logo=graphql)
 
-
-### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parampreet-singh-252782298)
